@@ -4,7 +4,7 @@ class now{
 public static void main(String[] args){
 
 
-System.out.println("system terminates");
+System.out.println("system terminates now immediately");
 
 }
 }
